@@ -1,7 +1,4 @@
-
-<h1 align="center" style="color: #7e3ace;">Welcome!</h1>
-
-<hr style="background-color: #7e3ace;">
+<h1 align="center">Welcome</h1>
 ### 📊 &nbsp;Stats:
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=srpiroliro&show_icons=true&theme=midnight-purple&count_private=true" alt="piroliro" style="float:left"/>
