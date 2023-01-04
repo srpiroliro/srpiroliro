@@ -4,8 +4,8 @@
 
 <h3> 📊 &nbsp;Stats:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srpiroliro&show_icons=true&theme=chartreuse-dark&count_private=true" alt="piroliro" height="200px"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srpiroliro&theme=chartreuse-dark&layout=compact&hide=Hack" alt="piroliro" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srpiroliro&show_icons=true&theme=chartreuse-dark&count_private=true" alt="piroliro" height="170px"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srpiroliro&theme=chartreuse-dark&layout=compact&hide=Hack" alt="piroliro" height="170px"/>
 </p>
 
 ---
