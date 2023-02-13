@@ -1,4 +1,4 @@
-<img src="5927911.gif"/>
+<img src="work.png"/>
 
 ---
 
