@@ -1,4 +1,4 @@
-<img src="work.png"/>
+<img align='center' src="work.png"/>
 
 ---
 
